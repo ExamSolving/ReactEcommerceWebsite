@@ -22,6 +22,9 @@
   font-size: 18px;
   gap: 15px;
 }
+.nav a {
+  text-decoration: none;
+}
 
 .top-nav .logo {
   color: white;
@@ -29,6 +32,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  cursor: pointer;
   gap: 10px;
 }
 
